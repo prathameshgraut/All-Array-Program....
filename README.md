@@ -38,5 +38,4 @@ All programs are written in easy-to-understand logic so beginners can learn and 
 - Find common elements between two arrays  
 - Generate number permutations (using nested loops)
 
-## 📂 Folder Structure
 
